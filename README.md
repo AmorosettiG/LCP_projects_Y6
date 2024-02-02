@@ -5,7 +5,7 @@ In particular the file Project.ipynb describes the projects and provides guidanc
 Other files could be present if needed.
 
 Each branch is named after the group of students a given project is assigned to.
-The groups compositions are listed [here](https://docs.google.com/spreadsheets/d/1wmtrJ9o6YSEJlNEczD82Yzv0DnXJEAosRwRk-ccl80o/edit?usp=sharing)
+The groups compositions are listed [here](https://docs.google.com/spreadsheets/d/1b-jrFxIWvQG6YMxONHcy2ImiQKtIcOT1Adm9FltXDnI/edit?usp=sharing).
 
 Students are supposed to work together to produce a short report on the assigned task. The preferred format for the latter is a jupyter notebook, with the proper description, the code implemented for the purpose and the actual results (plots, tables, etc.). The notebook has to be delivered with all the cells executed and should live in a GitHib repository. There is no need to make a pull request to the central repository.
 
